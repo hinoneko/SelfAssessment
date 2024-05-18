@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 👂 heard
+  - this: 👂 heard
+  - arrow function: 👂 heard
+  - async function: 👂 heard
   - call
   - bind
-  - apply
+  - apply: 👂 heard
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 👂 heard
   - destructuring
-  - generator
-  - iterator
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
-  - chaining
+  - chaining: 👂 heard
   - optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
+  - global: 👂 heard
+  - globalThis: 👂 heard
+  - window: 👂 heard
   - getters and setters
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
+  - prototype: 👂 heard
+  - equality operators: 👂 heard
+  - logical operators: 👂 heard
+  - bitwise operators: 👂 heard
   - ternary operator
-  - void
+  - void: 👂 heard
   - yield
   - await
   - template literal
-  - strict mode
-  - delete
+  - strict mode: 👂 heard
+  - delete: 👂 heard
   - in
   - super
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 👂 heard
+  - while: 👂 heard
+  - do..while: 👂 heard
+  - for: 👂 heard
+  - for..in: 👂 heard
+  - for..of: 👂 heard
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
+  - throw: 👂 heard
+  - break: 👂 heard
+  - continue: 👂 heard
+  - import: 👂 heard
+  - export: 👂 heard
+  - label: 👂 heard
+  - try..catch: 👂 heard
+  - switch: 👂 heard
+  - class: 👂 heard
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return
-  - default parameters
+  - return: 👂 heard
+  - default parameters: 👂 heard
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - typed arrays: 👂 heard
+  - Map: 👂 heard
+  - Set: 👂 heard
+  - undefined: 👂 heard
+  - null: 👂 heard
   - Proxy
   - weak collections
-  - timers
+  - timers: 👂 heard
   - EventEmitter
   - RegExp
-  - Date
+  - Date: 👂 heard
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
+  - V8: 👂 heard
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN
