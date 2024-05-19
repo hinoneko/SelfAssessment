@@ -14,7 +14,7 @@
   - method: 🎓 known
   - class: 🖐️ used
   - prototype: 👂 heard
-  - event: 👂 heard
+  - event: 🎓 known
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
@@ -25,9 +25,9 @@
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 👂 heard
-  - interface
+  - interface: 🎓 known
   - contract
-  - module
+  - module: 👂 heard
   - call stack: 👂 heard
 - Functions
   - signature: 🖐️ used
@@ -45,8 +45,8 @@
   - listener: 👂 heard
   - compose: 👂 heard
   - pipe
-  - memoize
-  - wrapper
+  - memoize: 🎓 known
+  - wrapper: 🖐️ used
   - functor: 👂 heard
   - monad
   - monoid
@@ -60,18 +60,18 @@
   - instance: 🖐️ used
   - object: 🖐️ used
   - class: 🖐️ used
-  - collection: 👂 heard
-  - set: 👂 heard
-  - hash table
-  - linked list: 🎓 known
-  - doubly list
-  - unrolled list
-  - circular list
+  - collection: 🎓 known
+  - set: 🎓 known
+  - hash table: 👂 heard
+  - linked list: 🖐️ used
+  - doubly list: 🖐️ used
+  - unrolled list: 🖐️ used
+  - circular list: 🖐️ used
   - queue: 👂 heard
-  - stack: 👂 heard
+  - stack: 🖐️ used
   - deque
-  - tree: 👂 heard
-  - graph: 👂 heard
+  - tree: 🖐️ used
+  - graph: 🖐️ used
   - iterator: 🖐️ used
   - mutable state
   - immutable state
@@ -87,20 +87,20 @@
   - refactoring: 🎓 known
   - code review: 🎓 known
   - antipatterns: 👂 heard
-  - paradigm: 👂 heard
+  - paradigm: 🎓 known
   - algorithm: 🎓 known
-  - magic numbers: 👂 heard
+  - magic numbers: 🎓 known
   - hardcode: 🎓 known
   - complexity: 🎓 known
-  - decomposition
-  - spaghetti: 👂 heard
-  - silver bullet
-  - not invented here
-  - dead code: 👂 heard
+  - decomposition: 🎓 known
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
+  - not invented here: 👂 heard
+  - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🖐️ used
   - exception: 🎓 known
   - return early: 👂 heard
   - unittest: 👂 heard
   - git: 🖐️ used
-  - github: 🎓 known
+  - github: 🖐️ used
