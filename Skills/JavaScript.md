@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 👂 heard
-  - this: 👂 heard
-  - arrow function: 👂 heard
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
   - async function: 👂 heard
   - call
-  - bind
+  - bind: 🖐️ used
   - apply: 👂 heard
   - instanceof
-  - ...spread
-  - ...rest
-  - typeof: 👂 heard
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🖐️ used
   - destructuring
-  - generator: 👂 heard
-  - iterator: 👂 heard
+  - generator: 🎓 known
+  - iterator: 🖐️ used
   - async generator
   - async iterator
   - chaining: 👂 heard
@@ -23,61 +23,61 @@
   - global: 👂 heard
   - globalThis: 👂 heard
   - window: 👂 heard
-  - getters and setters
+  - getters and setters: 👂 heard
   - __proto__
   - prototype: 👂 heard
-  - equality operators: 👂 heard
-  - logical operators: 👂 heard
-  - bitwise operators: 👂 heard
-  - ternary operator
-  - void: 👂 heard
+  - equality operators: 🎓 known
+  - logical operators: 🎓 known
+  - bitwise operators: 🎓 known
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
   - await
   - template literal
-  - strict mode: 👂 heard
+  - strict mode: 🖐️ used
   - delete: 👂 heard
-  - in
+  - in: 🖐️ used
   - super
   - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if: 👂 heard
-  - while: 👂 heard
-  - do..while: 👂 heard
-  - for: 👂 heard
-  - for..in: 👂 heard
-  - for..of: 👂 heard
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🎓 known
+  - for..in: 🖐️ used
+  - for..of: 🎓 known
   - for await
   - throw: 👂 heard
-  - break: 👂 heard
-  - continue: 👂 heard
-  - import: 👂 heard
-  - export: 👂 heard
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label: 👂 heard
   - try..catch: 👂 heard
-  - switch: 👂 heard
-  - class: 👂 heard
+  - switch: 🖐️ used
+  - class: 🎓 known
   - new Error
-  - with
+  - with: 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return: 👂 heard
-  - default parameters: 👂 heard
-  - functional object
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🎓 known
 - Data structures
-  - Array: 👂 heard
+  - Array: 🖐️ used
   - mixin
   - extend
-  - typed arrays: 👂 heard
-  - Map: 👂 heard
-  - Set: 👂 heard
-  - undefined: 👂 heard
-  - null: 👂 heard
+  - typed arrays: 🖐️ used
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
-  - weak collections
-  - timers: 👂 heard
-  - EventEmitter
+  - weak collections: 👂 heard
+  - timers: 🖐️ used
+  - EventEmitter: 🖐️ used
   - RegExp
   - Date: 👂 heard
   - BigInt
@@ -85,5 +85,5 @@
   - V8: 👂 heard
   - Node.js: 👂 heard
   - npm
-  - prettier
+  - prettier: 🎓 known
   - MDN
